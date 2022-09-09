@@ -25,8 +25,8 @@
 </table>
 
 
-                <img align="center" style="display:inline;" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
-                <img align="center" style="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
+![](https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default)
 
 ![Visitors since 09 Sep 2022](https://visitor-badge.glitch.me/badge?page_id=yfereidouni.yfereidouni)
 
