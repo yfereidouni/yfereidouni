@@ -12,12 +12,12 @@
 <table style="border: none;">
 	<tr style="border: none;">
 		<td style="border: none;">
-			<div>
+			<div style="border: none;">
 				<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
 			<div/>
 		</td>
 		<td style="border: none;">
-			<div>
+			<div style="border: none;">
 				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
 			<div/>
 		</td>
