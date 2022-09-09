@@ -10,14 +10,15 @@
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
 <table>
-<tr>
-	<td>
-		![](https://github-readme-stats.vercel.app/api?username=yfereidouni&layout=compact)
+	<tr>
+		<td>
+			![](https://github-readme-stats.vercel.app/api?username=yfereidouni&layout=compact)
 	</td>
-	<td>
-		![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact)
-	</td>
-</tr>
+		<td>
+			![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact)
+		</td>
+	</tr>
 </table>
+
 ![Visitors since 09 Sep 2022](https://visitor-badge.glitch.me/badge?page_id=yfereidouni.yfereidouni)
 
