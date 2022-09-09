@@ -6,7 +6,7 @@
 
 💬 Ask me about bringing Domain-Driven Design and Event Storming skills to your team  
 :brain: Code reviews and training for EF Core or Domain-Driven Design practices.  
-📫 How to reach me: [Blog Contact Form](Yasser.Fereidouni@gmail.com/).   
+📫 How to reach me: Yasser.Fereidouni@gmail.com.   
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Princess Josie](https://twitter.com/fereidouni).  
 
