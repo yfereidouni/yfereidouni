@@ -17,7 +17,7 @@
 	<td>
 		![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact)
 	</td>
-<tr>
-<table>
+</tr>
+</table>
 ![Visitors since 09 Sep 2022](https://visitor-badge.glitch.me/badge?page_id=yfereidouni.yfereidouni)
 
