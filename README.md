@@ -12,13 +12,14 @@
 <table>
 	<tr>
 		<td>
-			![](https://github-readme-stats.vercel.app/api?username=yfereidouni&layout=compact)
 			<div>
-				<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardalis&show_icons=true&theme=dark" alt="ardalis" />
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=dark" alt="ardalis" />
 			<div/>
 		</td>
 		<td>
-			![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact)
+			<div>
+				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=dark" alt="ardalis" />
+			<div/>
 		</td>
 	</tr>
 </table>
