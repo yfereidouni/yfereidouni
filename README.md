@@ -9,15 +9,20 @@
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
-<table style="border: none!important;">
-	<tr style="border: none!important;">
-		<td style="border: none!important;">
-			<div style="border: none!important;">
+<style>
+.myTable{
+	border:none !important;
+}
+</style>
+<table class="myTable" style="border: none!important;">
+	<tr style="border: none !important;">
+		<td style="border: none !important;">
+			<div style="border: none !important;">
 				<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
 			<div/>
 		</td>
-		<td style="border: none!important;">
-			<div style="border: none!important;">
+		<td style="border: none !important;">
+			<div style="border: none !important;">
 				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
 			<div/>
 		</td>
