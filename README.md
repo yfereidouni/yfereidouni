@@ -10,11 +10,11 @@
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
 <div class="row">
-    <div class="column" style="float:left">
+    <div class="column" style="float:left; box-sizing: border-box;">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="yfereidouni" />
     </div>
     <div> </div>
-    <div class="column" style="float:left">
+    <div class="column" style="float:left;box-sizing: border-box;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="yfereidouni" />
     </div>
 </div>
