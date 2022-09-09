@@ -9,12 +9,12 @@
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
-<div class="grid-container" style="display: grid;grid-template-columns: 1fr 1fr; grid-gap: 20px;">
-    <div class="grid-child purple">
+<div>
+    <div style="float:left">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
     </div>
 
-    <div class="grid-child green">
+    <div style="float:left">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
     </div>
 </div>
