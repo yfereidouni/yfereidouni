@@ -9,8 +9,8 @@
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
-<table>
-	<tr>
+<table style="border: none;">
+	<tr style="border: none;">
 		<td style="border: none;">
 			<div>
 				<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
