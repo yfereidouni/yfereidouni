@@ -11,12 +11,12 @@
 <div class="row">
   <div class="center-block">
 	<div>
-		![](https://github-readme-stats.vercel.app/api?username=yfereidouni)
+		<img align="center" src="(https://github-readme-stats.vercel.app/api?username=yfereidouni)"
     </div>
   </div>
   <div class="center-block">
 	<div>
-		![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact)
+		<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact)"
     </div>
   </div>
 </div>
