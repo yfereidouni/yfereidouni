@@ -8,7 +8,7 @@
 :brain: Code reviews and training for EF Core or Domain-Driven Design practices.  
 📫 How to reach me: Yasser.Fereidouni@gmail.com.   
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
-⚡ My twitter account [Princess Josie](https://twitter.com/fereidouni).  
+⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).  
 
 ![](https://github-readme-stats.vercel.app/api?username=yfereidouni)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni)
