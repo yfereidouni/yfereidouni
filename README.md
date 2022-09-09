@@ -13,7 +13,10 @@
 	<tr>
 		<td>
 			![](https://github-readme-stats.vercel.app/api?username=yfereidouni&layout=compact)
-	</td>
+			<div>
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardalis&show_icons=true&theme=dark" alt="ardalis" />
+			<div/>
+		</td>
 		<td>
 			![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact)
 		</td>
