@@ -9,25 +9,24 @@
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
-<style>
-.myTable{
-	border:none !important;
-}
-</style>
-<table class="myTable" style="border: none!important;">
-	<tr style="border: none !important;">
-		<td style="border: none !important;">
-			<div style="border: none !important;">
-				<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
-			<div/>
-		</td>
-		<td style="border: none !important;">
-			<div style="border: none !important;">
-				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
-			<div/>
-		</td>
-	</tr>
-</table>
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+        <table style="border: none;">
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <div>
+                        <img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
+                    <div/>
+                </td>
+                <td style="border: none;">
+                    <div>
+                        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
+                    <div/>
+                </td>
+            </tr>
+        </table>
+	</foreignObject>
+</svg>
 
 ![Visitors since 09 Sep 2022](https://visitor-badge.glitch.me/badge?page_id=yfereidouni.yfereidouni)
 
