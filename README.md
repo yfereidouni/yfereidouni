@@ -4,8 +4,8 @@
 -->
 ### :newspaper_roll: September 12, 2022: [Parkey : REST API](https://github.com/yfereidouni/Parky.git) will publishe on GitHub! 
 
-💬 Ask me about bringing Domain-Driven Design and Event Storming skills to your team  
-:brain: Code reviews and training for EF Core or Domain-Driven Design practices.     
+💬 Ask me about bringing Domain-Driven Design and Test-Driven Design skills to your team  
+:brain: Code reviews and training for EF Core or Domain-Driven Design and TDD practices.  
 :email: Yasser.Fereidouni@gmail.com
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).  
