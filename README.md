@@ -14,7 +14,7 @@
     <tr style="border: none; !important;">
         <td style="border: none; !important;">
             <div style="border: none; !important;">
-                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
+                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=default" alt="ardalis" />
             <div/>
         </td>
         <td style="border: none; !important;">
