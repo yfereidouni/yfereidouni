@@ -9,16 +9,16 @@
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
-<table>
+<table style="border: none;">
 	<tr>
 		<td>
 			<div>
-				<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=dark" alt="ardalis" />
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
 			<div/>
 		</td>
 		<td>
 			<div>
-				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=dark" alt="ardalis" />
+				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
 			<div/>
 		</td>
 	</tr>
