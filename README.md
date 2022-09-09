@@ -13,20 +13,19 @@
     <tr style="border: none; !important;">
         <td style="border: none; !important;">
             <div style="border: none; !important;">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
+                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
             <div/>
         </td>
         <td style="border: none; !important;">
             <div style="border: none; !important;">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
+                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
             <div/>
         </td>
     </tr>
 </table>
 
-
-![](https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default)
+<img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="ardalis" />
+<img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
 
 ![Visitors since 09 Sep 2022](https://visitor-badge.glitch.me/badge?page_id=yfereidouni.yfereidouni)
 
