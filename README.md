@@ -13,7 +13,6 @@
     <div class="column" style="float:left; box-sizing: border-box; width:50%">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&theme=default" alt="yfereidouni" />
     </div>
-    <div class="column" style="float:left;> </div>
     <div class="column" style="float:left; box-sizing: border-box; width:50%">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="yfereidouni" />
     </div>
