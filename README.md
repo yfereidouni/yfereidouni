@@ -9,8 +9,8 @@
 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).  
 <div>
-![](https://github-readme-stats.vercel.app/api?username=yfereidouni)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html)
+	<img align="left" src="(https://github-readme-stats.vercel.app/api?username=yfereidouni)" alt="yfereidouni" />
+	<img align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html)" alt="yfereidouni" />
 </div>
 ![Visitors since 09 Sep 2022](https://visitor-badge.glitch.me/badge?page_id=yfereidouni.yfereidouni)
 
