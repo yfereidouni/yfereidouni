@@ -19,7 +19,7 @@
         </td>
         <td style="border: none; !important;">
             <div style="border: none; !important;">
-                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&hide=html&theme=default" alt="ardalis" />
+                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=default" alt="ardalis" />
             <div/>
         </td>
     </tr>
