@@ -24,3 +24,13 @@
         </td>
     </tr>
 </table>
+
+
+<div class='parent'>
+  <div class='child inline-block-child'>
+    <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=dark" alt="yfereidouni" />
+  </div>
+  <div class='child inline-block-child'>
+    <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=dark" alt="yfereidouni" />
+  </div>
+</div>
