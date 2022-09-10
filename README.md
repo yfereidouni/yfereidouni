@@ -28,9 +28,9 @@
 
 <div class='parent'>
   <div style="display:inline">
-    <img style="float:left;" width:33%; align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=dark" alt="yfereidouni" />
+    ![](https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=dark)
   </div>
   <div style="display:inline">
-    <img style="float:left;" width:33%; align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=dark" alt="yfereidouni" />
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=dark)
   </div>
 </div>
