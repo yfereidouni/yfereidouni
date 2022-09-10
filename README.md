@@ -24,13 +24,3 @@
         </td>
     </tr>
 </table>
-
-
-<div>
-    <div>
-        <img style="float:left;" width:"100px;" align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=default" alt="yfereidouni" />
-    </div>
-    <div>
-        <img style="float:left;" width:"100px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=default" alt="yfereidouni" />
-    </div>
-</div>
