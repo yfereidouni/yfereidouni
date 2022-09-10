@@ -26,11 +26,11 @@
 </table>
 
 
-<div class='parent'>
-  <div style="display:inline">
+<div class="row">
+  <div class="column" style="display:inline-block">
     ![](https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=dark)
   </div>
-  <div style="display:inline">
+  <div class="column" style="display:inline-block">
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=dark)
   </div>
 </div>
