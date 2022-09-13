@@ -11,16 +11,16 @@
 - 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 - ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
-<table style="border: none; !important;">
-    <tr style="border: none; !important;">
-        <td style="border: none; !important;">
-            <div style="border: none; !important;">
-                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=dark" alt="yfereidouni" />
+<table>
+    <tr>
+        <td>
+            <div>
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=dark" alt="yfereidouni" />
             <div/>
         </td>
-        <td style="border: none; !important;">
-            <div style="border: none; !important;">
-                <img style="float:left;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=dark" alt="yfereidouni" />
+        <td>
+            <div>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=dark" alt="yfereidouni" />
             <div/>
         </td>
     </tr>
