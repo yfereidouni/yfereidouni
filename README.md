@@ -3,7 +3,7 @@
 **yfereidouni/yfereidouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--
-### :newspaper_roll: September 12, 2022: [Parkey : REST API Create and Consume](https://github.com/yfereidouni/Parky.git) will publishe on GitHub! 
+### :newspaper_roll: October 10, 2022: [Parkey : REST API Create and Consume](https://github.com/yfereidouni/Parky.git) have published on GitHub! 
 -->
 - 💬 Ask me about bringing Domain-Driven Design and TDD skills to your team...  
 - :brain: Code reviews and training for ASP.NET Core MVC, EF Core or DDD, and TDD practices.  
