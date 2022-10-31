@@ -15,12 +15,12 @@
     <tr>
         <td>
             <div>
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=default" alt="yfereidouni" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=dark" alt="yfereidouni" />
             <div/>
         </td>
         <td>
             <div>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=default" alt="yfereidouni" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=dark" alt="yfereidouni" />
             <div/>
         </td>
     </tr>
