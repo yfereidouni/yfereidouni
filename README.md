@@ -11,6 +11,7 @@
 - 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
 - ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
 
+/*
 <table>
     <tr>
         <td>
@@ -26,3 +27,12 @@
     </tr>
 
 </table>
+*/
+
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yfereidouni&show_icons=true&layout=compact&theme=default" alt="yfereidouni" />
+<div/>
+
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfereidouni&layout=compact&theme=default" alt="yfereidouni" />
+<div/>
