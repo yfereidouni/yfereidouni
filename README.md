@@ -28,4 +28,3 @@
 
 </table>
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=yfereidouni)](https://github.com/yfereidouni/github-profile-trophy)
