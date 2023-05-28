@@ -8,8 +8,8 @@
 - 💬 Ask me about bringing Domain-Driven Design and TDD skills to your team..  
 - :brain: Code reviews and training for ASP.NET Core MVC, EF Core, DDD, and TDD practices.  
 - 📫 How to reach me: Yasser.Fereidouni@gmail.com   
-- 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social).  
-- ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni).
+- 🐦 ![Twitter](https://img.shields.io/twitter/follow/fereidouni?style=social)  
+- ⚡ My twitter account [Yasser Fereidouni](https://twitter.com/fereidouni)
 
 <!--
 <table>
